@@ -223,26 +223,8 @@ plt.legend()
 plt.show()
 
 
-# In[15]:
 
 
-
-
-
-# In[ ]:
-
-
-
-
-
-# # Lab Logbook requirements: 
-# ### Please make sure to document the following in your Lablogbook:
-# 
-# Include an image of the generated graph depicting the original data and the fitted line for linear regression. Modify the appearance of the graph by adjusting its color or size. Copy the figure and paste it directly into your logbook. Refrain from taking a snapshot; instead, right-click and copy the graph to your lab logbook. Ensure that no code or other information is added to the logbook and that only required graph is present.  
-# 
-# #### Marks will not be awarded if anything else is found in the logbook or instructions are not clearly followed.
-
-# In[ ]:
 
 
 
